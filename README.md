@@ -1,16 +1,20 @@
 ## Hi there 👋
-👋 Senior DevOps Engineer | Cloud Architect
-I love automation and making things work seamlessly with minimal intervention. My philosophy? Set it up once, then let the magic happen! 🎩✨
+
+### 👋 Senior DevOps Engineer | Cloud Architect | Developer
+
+I love automation and making things work seamlessly with minimal intervention.
+
+*My philosophy? Set it up once, then let the magic happen! 🎩✨*
 
 🚀 "Lazy" DevOps is the best DevOps—automate everything, optimize workflows, and let the system run itself while you focus on the next big thing.
----
 
 ## Who I Am
+
 An experienced Senior DevOps Engineer passionate about:
-✅ Automation – Because manual work is boring.
-✅ Cloud Infrastructure – Designing scalable and resilient solutions.
-✅ Kubernetes – Managing workloads efficiently.
-✅ Cost Optimization – Saving money without sacrificing performance.
+* ✅ Automation – Because manual work is boring.
+* ✅ Cloud Infrastructure – Designing scalable and resilient solutions.
+* ✅ Kubernetes – Managing workloads efficiently.
+* ✅ Cost Optimization – Saving money without sacrificing performance.
 
 ## What I Do
 * 🚀 Cloud & Infrastructure: AWS, Kubernetes (EKS), Terraform, Helm.
@@ -18,14 +22,12 @@ An experienced Senior DevOps Engineer passionate about:
 * 📊 Observability & Security: Prometheus, Grafana, Elastic Stack.
 * 🛠 Infrastructure as Code: Terraform(Terragrunt), Crossplane.
 
----
-
 ## 🌐 Cloud Architecture in AWS
 I design cloud solutions that are:
-✅ Automated – Everything as Code (IaC).
-✅ Self-Healing – Karpenter, Auto Scaling, Spot Instances.
-✅ Secure – IAM Policies, OIDC Authentication, VPC Isolation.
-✅ Cost-Optimized – RI, Savings Plans, Serverless Architectures.
+* ✅ Automated – Everything as Code (IaC).
+* ✅ Self-Healing – Karpenter, Auto Scaling, Spot Instances.
+* ✅ Secure – IAM Policies, OIDC Authentication, VPC Isolation.
+* ✅ Cost-Optimized – RI, Savings Plans, Serverless Architectures.
 
 📌 Set it up once → Let automation do the rest! 🚀
 
