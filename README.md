@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Senior DevOps Engineer | Cloud Architect | Developer
+### Senior DevOps Engineer
 
 I love automation and making things work seamlessly with minimal intervention.
 
